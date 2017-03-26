@@ -1,0 +1,45 @@
+b'Dr @RonPaul "Got that? https://t.co/DhDPz5mf8J "Trump had already ordered mandate not be enforced..a much better position, free market-wise"'
+
+ Sentiment(polarity=0.45, subjectivity=0.65)
+b'RT @JudgeJeanine: "Paul Ryan needs to step down as speaker of the house.The reason? He failed to deliver the votes on his healthcare bill."\xe2\x80\xa6'
+
+ Sentiment(polarity=-0.3277777777777778, subjectivity=0.29444444444444445)
+b"RT @shaun_obanion: To be clear, our @POTUS @realDonaldTrump, is rooting for people's healthcare to implode &amp; for people to die so he can sa\xe2\x80\xa6"
+
+ Sentiment(polarity=0.10000000000000002, subjectivity=0.3833333333333333)
+b"RT @Judgenap: ...The feds can't deliver the mail and they want to\nmanage healthcare."
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b"RT @JessieJaneDuff: Nancy, you never took the lead as Majority Leader under Obama when veterans died under the VA healthcare system. Don't\xe2\x80\xa6"
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b"@US_Army_Vet3 come on in, Welcome!Here's some welfare,healthcare,food,housing,job,\nprotection from law,&amp; your opportunity2fuck American ppl!"
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b'Democrats are smiling in D.C.  https://t.co/8s0rfQ6A2y #barackobama #billclinton #healthcare'
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b"RT @Independent: Donald Trump told Republicans to 'ignore the little s***' and wave through his failed healthcare bill https://t.co/6h4T5Ud\xe2\x80\xa6"
+
+ Sentiment(polarity=-0.22916666666666666, subjectivity=0.30833333333333335)
+b'RT @NumbersMuncher: Every time I talked about Trump\'s liberal record I was told "BUT HE FIGHTS," yet Trump is running away from healthcare\xe2\x80\xa6'
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b"Donald Trump and Republicans' stunning inability to bring their healthcare bill to a vote in the GOP-controlled... https://t.co/x80HvSkzBm"
+
+ Sentiment(polarity=0.5, subjectivity=1.0)
+b"RT @baalter: Paul Ryan's Healthcare Plan RyanCare is dead. How much of our tax dollars did he waste on this left leaning bill\xf0\x9f\x98\xa1  #FireRyan h\xe2\x80\xa6"
+
+ Sentiment(polarity=-0.05, subjectivity=0.15000000000000002)
+b'RT @NosaIsabor: Tomi Lahren banned from TheBlaze\nTrumps healthcare rejected\nObamacare still stands \nFBI investigating trump\nRepublicans loo\xe2\x80\xa6'
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b'RT @thehill: Freedom Caucus member resigns after clash over healthcare bill https://t.co/EAsDTQbWr0 https://t.co/6fRfO5lcXV'
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b'RT @NosaIsabor: Tomi Lahren banned from TheBlaze\nTrumps healthcare rejected\nObamacare still stands \nFBI investigating trump\nRepublicans loo\xe2\x80\xa6'
+
+ Sentiment(polarity=0.0, subjectivity=0.0)
+b'RT @GlennThrush: When it came to the final healthcare push, Trump really put in the effort of a lunchtime. @juliehdavis @maggieNYT https://\xe2\x80\xa6'
+
+ Sentiment(polarity=0.1, subjectivity=0.6)
